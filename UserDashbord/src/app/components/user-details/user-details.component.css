@@ -1,0 +1,12 @@
+
+.user-detail {
+  text-align: center;
+  margin-top: 20px;
+}
+
+.user-detail img {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  margin-bottom: 20px;
+}
