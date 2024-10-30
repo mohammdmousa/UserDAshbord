@@ -32,7 +32,7 @@ To get started with the application, follow these steps:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/username/repo-name.git
+   git clone https://github.com/mohammdmousa/UserDashbord
    cd repo-name
    
 ## Development server
